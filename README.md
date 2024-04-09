@@ -4,7 +4,9 @@ It is a simple Node.js shopping app.
 
 ## Getting Started:
 
-It is not hosted on any domain. So to run this project
+**Add your MongoDb credentials in [app.js](/app.js).**
+
+It is not hosted on any domain. So to run this project:
 Run `npm install` to install all the required node modules. Then run the below commands for both the backend and frontend servers.
 
 ```bash
